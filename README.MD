@@ -13,7 +13,7 @@
 
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
-<img align="right" width="300" alt="Coding" src="M.gif" />
+<img align="right" width="350" alt="Coding" src="M.gif" />
 
 <p align="left"> 
 🌟 Passionate full stack Developer 🚀
